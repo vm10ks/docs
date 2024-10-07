@@ -1,0 +1,670 @@
+{
+  "version": "3.6.0",
+  "created": "2024-10-01T23:55:07Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "about\\index.html"
+    },
+    {
+      "path": "apps\\alert\\index.html",
+      "old": true
+    },
+    {
+      "path": "apps\\badge\\index.html",
+      "old": true
+    },
+    {
+      "path": "apps\\budgets\\index.html"
+    },
+    {
+      "path": "apps\\doggyearn\\index.html"
+    },
+    {
+      "path": "apps\\embed\\index.html",
+      "old": true
+    },
+    {
+      "path": "apps\\file-download\\index.html",
+      "old": true
+    },
+    {
+      "path": "apps\\forga\\index.html",
+      "old": true
+    },
+    {
+      "path": "apps\\forgatv\\index.html"
+    },
+    {
+      "path": "apps\\hstn\\index.html",
+      "old": true
+    },
+    {
+      "path": "apps\\hstnservers\\index.html"
+    },
+    {
+      "path": "apps\\math-formulas\\index.html",
+      "old": true
+    },
+    {
+      "path": "apps\\pindigo\\index.html"
+    },
+    {
+      "path": "apps\\pyra\\index.html"
+    },
+    {
+      "path": "apps\\teamv\\index.html"
+    },
+    {
+      "path": "apps\\videodownloader\\index.html"
+    },
+    {
+      "path": "changelog\\index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "donations\\index.html"
+    },
+    {
+      "path": "donations\\thankyou\\index.html"
+    },
+    {
+      "path": "faq\\index.html"
+    },
+    {
+      "path": "favicon.ico",
+      "old": true
+    },
+    {
+      "path": "guides\\ai\\index.html"
+    },
+    {
+      "path": "guides\\application\\index.html"
+    },
+    {
+      "path": "guides\\cli\\index.html",
+      "old": true
+    },
+    {
+      "path": "guides\\financials\\index.html"
+    },
+    {
+      "path": "guides\\getting-started\\index.html"
+    },
+    {
+      "path": "guides\\github-actions\\index.html",
+      "old": true
+    },
+    {
+      "path": "guides\\shop\\index.html"
+    },
+    {
+      "path": "hstn\\application\\index.html"
+    },
+    {
+      "path": "hstn\\envvars\\index.html",
+      "old": true
+    },
+    {
+      "path": "hstn\\getting-started\\index.html"
+    },
+    {
+      "path": "hstn\\project\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "license\\index.html"
+    },
+    {
+      "path": "pindigo\\application\\index.html"
+    },
+    {
+      "path": "pindigo\\envvars\\index.html",
+      "old": true
+    },
+    {
+      "path": "pindigo\\getting-started\\index.html"
+    },
+    {
+      "path": "pindigo\\project\\index.html"
+    },
+    {
+      "path": "pro\\index.html",
+      "old": true
+    },
+    {
+      "path": "pro\\thankyou\\index.html",
+      "old": true
+    },
+    {
+      "path": "pyra.png"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "samples\\_includes\\page-with-header.png",
+      "old": true
+    },
+    {
+      "path": "samples\\node-servers\\index.html",
+      "old": true
+    },
+    {
+      "path": "samples\\page-with-header\\index.html",
+      "old": true
+    },
+    {
+      "path": "servers\\_includes\\page-with-header.png"
+    },
+    {
+      "path": "servers\\game-servers\\index.html"
+    },
+    {
+      "path": "servers\\node-servers\\index.html"
+    },
+    {
+      "path": "services\\clinicsystem\\index.html"
+    },
+    {
+      "path": "services\\cloudflare\\index.html",
+      "old": true
+    },
+    {
+      "path": "services\\e--learning-platform\\index.html",
+      "old": true
+    },
+    {
+      "path": "services\\e-learning\\index.html"
+    },
+    {
+      "path": "services\\shop-platform\\index.html",
+      "old": true
+    },
+    {
+      "path": "services\\signtranslate\\index.html"
+    },
+    {
+      "path": "services\\teamvshop\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\00thumbnail.png"
+    },
+    {
+      "path": "static\\1thumbnail.png"
+    },
+    {
+      "path": "static\\7thumbnail.png"
+    },
+    {
+      "path": "static\\8thumbnail.png"
+    },
+    {
+      "path": "static\\9thumbnail.png"
+    },
+    {
+      "path": "static\\a"
+    },
+    {
+      "path": "static\\aa"
+    },
+    {
+      "path": "static\\add-retype-secret.png"
+    },
+    {
+      "path": "static\\budget0.png"
+    },
+    {
+      "path": "static\\budget1.png"
+    },
+    {
+      "path": "static\\budget10.png"
+    },
+    {
+      "path": "static\\budget11.png"
+    },
+    {
+      "path": "static\\budget2.png"
+    },
+    {
+      "path": "static\\budget3.png"
+    },
+    {
+      "path": "static\\budget4.png"
+    },
+    {
+      "path": "static\\budget5.png"
+    },
+    {
+      "path": "static\\budget6.png"
+    },
+    {
+      "path": "static\\budget7.png"
+    },
+    {
+      "path": "static\\budget8.png"
+    },
+    {
+      "path": "static\\budget9.png"
+    },
+    {
+      "path": "static\\budgetx.jpg"
+    },
+    {
+      "path": "static\\clinic1.png"
+    },
+    {
+      "path": "static\\clinic2.png"
+    },
+    {
+      "path": "static\\clinic3.png"
+    },
+    {
+      "path": "static\\clinic4.png"
+    },
+    {
+      "path": "static\\cliniclogo.png"
+    },
+    {
+      "path": "static\\doggyearn.png"
+    },
+    {
+      "path": "static\\doggyearn1.png"
+    },
+    {
+      "path": "static\\elearning.png"
+    },
+    {
+      "path": "static\\forga.png"
+    },
+    {
+      "path": "static\\forga1.png"
+    },
+    {
+      "path": "static\\forga2.png"
+    },
+    {
+      "path": "static\\forga3.png"
+    },
+    {
+      "path": "static\\forga4.png"
+    },
+    {
+      "path": "static\\forga5.png"
+    },
+    {
+      "path": "static\\forga6.png"
+    },
+    {
+      "path": "static\\github-actions-configure-branch.png"
+    },
+    {
+      "path": "static\\github-actions-configure-custom-domain.png"
+    },
+    {
+      "path": "static\\github-actions-enable-pages.png"
+    },
+    {
+      "path": "static\\gravatar-sample-identicon.png"
+    },
+    {
+      "path": "static\\gravatar-sample-monsterid.png"
+    },
+    {
+      "path": "static\\gravatar-sample-mp.png"
+    },
+    {
+      "path": "static\\gravatar-sample-retro.png"
+    },
+    {
+      "path": "static\\gravatar-sample-robohash.png"
+    },
+    {
+      "path": "static\\gravatar-sample-wavatar.png"
+    },
+    {
+      "path": "static\\hot.png"
+    },
+    {
+      "path": "static\\hot1.png"
+    },
+    {
+      "path": "static\\hot2.png"
+    },
+    {
+      "path": "static\\hot3.png"
+    },
+    {
+      "path": "static\\hot4.png"
+    },
+    {
+      "path": "static\\hot5.png"
+    },
+    {
+      "path": "static\\hot6.png"
+    },
+    {
+      "path": "static\\hot7.png"
+    },
+    {
+      "path": "static\\hot8.png"
+    },
+    {
+      "path": "static\\hstnlogo.png"
+    },
+    {
+      "path": "static\\hub-screencapture.png"
+    },
+    {
+      "path": "static\\logos\\a"
+    },
+    {
+      "path": "static\\logos\\budget.svg"
+    },
+    {
+      "path": "static\\logos\\clinic.svg"
+    },
+    {
+      "path": "static\\logos\\cloudflare.svg"
+    },
+    {
+      "path": "static\\logos\\cropped_image-(3).png"
+    },
+    {
+      "path": "static\\logos\\docker.svg"
+    },
+    {
+      "path": "static\\logos\\doggyearnlogo.svg"
+    },
+    {
+      "path": "static\\logos\\elearning.svg"
+    },
+    {
+      "path": "static\\logos\\forga.svg"
+    },
+    {
+      "path": "static\\logos\\gitlab.svg"
+    },
+    {
+      "path": "static\\logos\\hstn.png"
+    },
+    {
+      "path": "static\\logos\\hstn.svg"
+    },
+    {
+      "path": "static\\logos\\hstnn.svg"
+    },
+    {
+      "path": "static\\logos\\netlify.svg"
+    },
+    {
+      "path": "static\\logos\\p.png"
+    },
+    {
+      "path": "static\\logos\\p.svg"
+    },
+    {
+      "path": "static\\logos\\pindigo.svg"
+    },
+    {
+      "path": "static\\logos\\pyralogo.svg"
+    },
+    {
+      "path": "static\\logos\\server.svg"
+    },
+    {
+      "path": "static\\logos\\shop.svg"
+    },
+    {
+      "path": "static\\logos\\sign.svg"
+    },
+    {
+      "path": "static\\logos\\teamv.png"
+    },
+    {
+      "path": "static\\logos\\teamv.svg"
+    },
+    {
+      "path": "static\\logos\\youtubedownloader.svg"
+    },
+    {
+      "path": "static\\mermaid-header.png"
+    },
+    {
+      "path": "static\\p-a.png"
+    },
+    {
+      "path": "static\\pic010.png"
+    },
+    {
+      "path": "static\\pic011.png"
+    },
+    {
+      "path": "static\\pin1.png"
+    },
+    {
+      "path": "static\\pin2.png"
+    },
+    {
+      "path": "static\\pin3.png"
+    },
+    {
+      "path": "static\\pindigologo.png"
+    },
+    {
+      "path": "static\\powered-by-retype.png"
+    },
+    {
+      "path": "static\\project-base-config-github-pages.png"
+    },
+    {
+      "path": "static\\project-branding-title.png"
+    },
+    {
+      "path": "static\\pyra.png"
+    },
+    {
+      "path": "static\\pyra1.png"
+    },
+    {
+      "path": "static\\pyra2.png"
+    },
+    {
+      "path": "static\\pyra3.png"
+    },
+    {
+      "path": "static\\pyralogo.png"
+    },
+    {
+      "path": "static\\retype-hero.png"
+    },
+    {
+      "path": "static\\retype-hero.svg"
+    },
+    {
+      "path": "static\\retype-icon.svg"
+    },
+    {
+      "path": "static\\retype-logo-dark.svg"
+    },
+    {
+      "path": "static\\retype-logo.svg"
+    },
+    {
+      "path": "static\\retype-repository-secret.png"
+    },
+    {
+      "path": "static\\retype.yml"
+    },
+    {
+      "path": "static\\sample-large.jpg"
+    },
+    {
+      "path": "static\\sample.jpg"
+    },
+    {
+      "path": "static\\sample.js"
+    },
+    {
+      "path": "static\\sample.txt"
+    },
+    {
+      "path": "static\\server.png"
+    },
+    {
+      "path": "static\\shop.png"
+    },
+    {
+      "path": "static\\sign0.png"
+    },
+    {
+      "path": "static\\sign1.png"
+    },
+    {
+      "path": "static\\sign2.png"
+    },
+    {
+      "path": "static\\sign3.png"
+    },
+    {
+      "path": "static\\status.png"
+    },
+    {
+      "path": "static\\styles.css"
+    },
+    {
+      "path": "static\\teamvv-modified-(1).png"
+    },
+    {
+      "path": "static\\teamvv-modified.png"
+    },
+    {
+      "path": "static\\teamvv.png"
+    },
+    {
+      "path": "static\\th.jpg"
+    },
+    {
+      "path": "static\\videodownloader.png"
+    },
+    {
+      "path": "static\\youtubedownloader.png"
+    },
+    {
+      "path": "tags\\ai\\index.html"
+    },
+    {
+      "path": "tags\\application\\index.html"
+    },
+    {
+      "path": "tags\\budgets\\index.html"
+    },
+    {
+      "path": "tags\\clinic\\index.html"
+    },
+    {
+      "path": "tags\\component\\index.html",
+      "old": true
+    },
+    {
+      "path": "tags\\config\\index.html",
+      "old": true
+    },
+    {
+      "path": "tags\\doggy-earn\\index.html"
+    },
+    {
+      "path": "tags\\financials\\index.html"
+    },
+    {
+      "path": "tags\\forga\\index.html"
+    },
+    {
+      "path": "tags\\game\\index.html"
+    },
+    {
+      "path": "tags\\guide\\index.html"
+    },
+    {
+      "path": "tags\\hstn\\index.html"
+    },
+    {
+      "path": "tags\\index.html"
+    },
+    {
+      "path": "tags\\lang\\index.html"
+    },
+    {
+      "path": "tags\\node\\index.html"
+    },
+    {
+      "path": "tags\\pindigo\\index.html"
+    },
+    {
+      "path": "tags\\pyra\\index.html"
+    },
+    {
+      "path": "tags\\shop\\index.html"
+    },
+    {
+      "path": "tags\\sign\\index.html"
+    },
+    {
+      "path": "tags\\system\\index.html"
+    },
+    {
+      "path": "tags\\team-v\\index.html"
+    },
+    {
+      "path": "tags\\youtube-downloader\\index.html"
+    }
+  ]
+}
